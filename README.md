@@ -5,6 +5,10 @@
 
 This is the accompanying source code to create a web socket client / server as examples in the blog linked to above.
 
+It is arranged as three separate folders:
+ 1. backend -> contains the Laravel back end code.
+ 2. nuxt    -> contains the NuxtJs front end code.
+ 3. nodejs  -> contains the NodeJs socket server code.
 
 ## License
 
